@@ -1,0 +1,13 @@
+from temp import test3
+import sys
+# Use an absolute path to the 'temp' module
+sys.path.append('c:/users/tomast/temp')
+
+print(test3.x)
+
+import sys
+# Use an absolute path to the 'temp' module
+sys.path.append('c:/users/tomast/temp')
+
+from temp import test3
+print(test3.x)

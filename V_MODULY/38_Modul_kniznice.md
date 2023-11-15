@@ -1,12 +1,12 @@
 >## Knižnice Pythonu so svojími modulmi
 
-Možno si to neuvedomujete, ale už ste mali do činenia s niektorými najpopulárnejšími knižnicami Pythonu. Vybral som ich z rôznych domén (internetových zdrojov), aby som ukázal, aký je Python rozšírený. Python môžete použiť napr. v dátovej vede, IoT (Internet of Thing) aplikácie využívajúce internet, umelej inteligencii, vývoji webu, riešení špecifických úloh ako napr. v oblasti športu, vývoji hier a pod. Ak vám táto skutočnosť zvýši záujem o Python bude to iba dobré a možno to niekedy v nejakej podobe vo vašom profesionálnom živote využijete.
+Možno si to neuvedomujete, ale už ste mali do činenia s niektorými najpopulárnejšími knižnicami Pythonu. Vybral som ich z rôznych domén (internetových zdrojov), aby som vám ukázal, aký je Python rozšírený. Python môžete použiť napr. v dátovej vede, IoT (Internet of Thing) aplikáciách využívajúcich internet, umelej inteligencii, vývoji webu, či riešení špecifických úloh ako napr. v oblasti športu, vývoji hier a pod. Ak vám táto skutočnosť pomôže zvýšiť záujem o Python bude to iba dobré a možno to niekedy v nejakej podobe vo vašom profesionálnom živote aj využijete.
 
-Keď sa už samovolne rozhodnete učiť Python, alebo sa ho musíte z nejakých dôvodov učiť mali by ste si starostlivo vyberať učebné materiály. Na učenie Pythonu je k dispozícii množstvo zdrojov, ktoré môžu byť výhodou alebo nevýhodou z hľadiska vhodného výberu tej správnej a najúčinnejšej dokumentácie. Kľúčom je dobre štruktúrovaný a organizovaný materiál ku ktorému by vám mali umožniť prístup vaši učitelia alebo experti-praktici (guru) na python.
+Keď sa už z nejakého dôvodu rozhodnete učiť Python, mali by ste si starostlivo vyberať učebné materiály. Na učenie Pythonu je k dispozícii vbeľké množstvo zdrojov, ktoré môžu mať rôzny obsah alebo rozsah. To môže byť výhodou alebo aj nevýhodou pri výbere tej správnej a najúčinnejšej dokumentácie. **Kľúčom je dobre štruktúrovaný a organizovaný materiál** ku ktorému by vám mali umožniť prístup vaši učitelia alebo experti-praktici (guru) na python.
 
-Ďalšou veľmi dôležitou nutnosťou  je praktické precvičovanie, ktorého by malo byť čo najviac. Je to základná požiadavka učenia av plnom rozsahu platí aj pre učenie sa pythonu. LEARNPYTHON.COM ponúka starostlivo navrhnuté kurzy a trate s interaktívnou online konzolou, ktorá vám umožní trénovať, kým sa učíte. Naša skladba NAUČTE SA PROGRAMOVAŤ S PYTHONOM vám pomôže získať komplexné pochopenie základov Pythonu a počítačového programovania.
+Ďalšou veľmi dôležitou nutnosťou  je praktické precvičovanie, ktorého by malo byť čo najviac. Je to základná požiadavka učenia a v plnom rozsahu platí aj pre učenie sa pythonu. LEARNPYTHON.COM ponúka starostlivo navrhnuté kurzy a spôsoby s interaktívnou online konzolou, ktorá vám umožní trénovať programovanie, až kým sa to učíte. Náš zámer NAUČIŤ SA PROGRAMOVAŤ S PYTHONOM by vám mal pomôcť získať komplexné pochopenie základov Pythonu a počítačového programovania.
 
-Ďalšia veľmi dôležitá vec, ktorú treba mať na pamäti, je konzistencia. Keď sa učíte Python alebo akýkoľvek iný programovací jazyk, snažte sa nerobiť dlhé prestávky. Kódujte každý deň, aj keď je to len na pár minút. Zachováte si viac, ako by ste sa učili dlhé hodiny a potom si dali dlhú pauzu. Tu je zoznam 5 SKVELÝCH TIPOV, AKO SA NAUČIŤ PYTHON OD ZAČIATKU .
+Ďalšia veľmi dôležitá vec, ktorú treba mať na pamäti, je konzistencia (vytrvalosť). Keď sa učíte Python alebo akýkoľvek iný programovací jazyk, snažte sa nerobiť dlhé prestávky. Kódujte každý deň, aj keď je to len na pár minút. Zachováte si viac, ako by ste sa učili dlhé hodiny a potom si dali dlhú pauzu. Tu je zoznam 5 SKVELÝCH TIPOV, AKO SA NAUČIŤ PYTHON OD ZAČIATKU .
 
 Pri každom učení a používaní programoacieho jazyka sa nevyhnete jeho **knižniciam** ktoré vám pomáhajú pracovať resp. **programovať efektívnejšie a rýchlejšie**.
 
@@ -36,7 +36,7 @@ https://www.edureka.co/blog/python-libraries/
 
 Alebo si môžete vyGoogle aktuálne ponuky pomocou kľúčových slov "list of most popular python libraries"
 
-Ako vidíte Python je oceán knižníc, ktoré slúžia na rôzne účely a ako vývojár v Pythonu by ste sa mali zaujímať o možnosti ktoré vám knižnice poskytujú a mali by ste mať znalosti o tých najlepších. Aby sme veci zadosťučinili tu je článok, ktorý vám prináša 10 najlepších knižníc Pythonu pre strojové učenie, ktoré sú:
+Ako vidíte **Python je oceán knižníc**, ktoré slúžia na rôzne účely a ako vývojár v Pythonu by ste sa mali zaujímať o možnosti ktoré vám knižnice poskytujú a mali by ste mať znalosti o tých najlepších. Aby sme veci zadosťučinili tu je článok, ktorý vám prináša 10 najlepších knižníc Pythonu pre strojové učenie, ktoré sú:
 
 TensorFlow
 Scikit-Learn

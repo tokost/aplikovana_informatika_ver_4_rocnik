@@ -1,6 +1,6 @@
 >## Redistribuovatelé moduly
 
-Doposiaľ sme moduly alebo využívali z existujúcich knižníc, alebo sme si ich vytvárali pre svoju vlastnú potrebu. Pokiaľ sa však rozhodneme naše moduly poskytnúť širokej verejnosti t.j. distribúcii musím esplniť niekoľko požiadaviek o ktorých budeme pojednávať práve na tomto mieste. To ako vytvoriť opakovane t.j. redistribuovateľný modul sa dozvieme v nasledovnom [dokumente](https://naucse.python.cz/lessons/intro/distribution/). To ako sa potom takéto moduly inštalujú sme si už viac krát ukázali ale napriek tomu ešte jeden [odkaz](https://mamut.spseol.cz/nozka/python/moduly/) z oblasti vedecky orientovaných distribúcii.
+Doposiaľ sme moduly alebo využívali z existujúcich knižníc, alebo sme si ich vytvárali pre svoju vlastnú potrebu. Pokiaľ sa však rozhodneme naše **moduly poskytnúť širokej verejnosti** t.j. distribúcii musíme splniť niekoľko požiadaviek o ktorých budeme pojednávať práve na tomto mieste. Podrobnosti o tom ako vytvoriť opakovane použiteľný t.j. redistribuovateľný modul sa dozvieme v nasledovnom [dokumente](https://naucse.python.cz/lessons/intro/distribution/). To ako sa potom takéto moduly inštalujú sme si už viac krát ukázali ale napriek tomu ešte jeden [odkaz](https://mamut.spseol.cz/nozka/python/moduly/) z oblasti vedecky orientovaných distribúcii.
 
 >### Časté otázky o moduloch Python
 
@@ -135,7 +135,7 @@ Ak ste postupovali podľa týchto krokov, váš modul Python by mal byť po nain
 
 >### Zoznam modulov Pythonu
 
-Existujú tisíce modulov Pythonu a každý deň sa vyvíjajú ďalšie. Už bolo napísaných veľmi veľa modulov a návodov Pythonu ktoré sa stali populárnymi. Ak by ste chceli poznať tieto moduly, postupujte podľa odkazov pod tabuľkou. Tu ej príklad niektorých z nich:
+**Existujú tisíce modulov Pythonu** a každý deň sa vyvíjajú ďalšie. Už bolo napísaných veľmi veľa modulov a návodov Pythonu ktoré sa stali populárnymi. Ak by ste chceli poznať tieto moduly, postupujte podľa odkazov pod tabuľkou. Tu ej príklad niektorých z nich:
 
 Python Modules
 Python os module

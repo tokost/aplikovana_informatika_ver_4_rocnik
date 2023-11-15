@@ -103,9 +103,9 @@ V moduloch pripravených na importovanie sa ale **vedlajším efektom radšej vy
 
 Preto príkaz print radšej z modulu zase vymažme a presunme ho do volajúceho programu.
 
->## Samoistatný adresár pre každý projekt
+>## Samostatný adresár pre každý projekt
 
-Od teraz keď už poznáme na čo slúžia knižnice, moduly a funkcie **môžeme písať väčšie programy a pracovať na týmových projektoch**. Projekty a rozsiahlejšie programy totiž obsahujú viacero súvisiacich súborov ktoré sú viac alebo menej navzájom previazané a prepojené práve cez knižnice, moduly a funkcie ktoré obsahujú a ktoré súčasne používajú. Je vhodné aby sa pre každý takýto projekt vytvoril samostatný adresár. Na základe toho je možné sa lepšie orientovať v tom ku ktorému ten ktorý súbor patrí.
+Od teraz keď už poznáme na čo slúžia knižnice, moduly a funkcie **môžeme písať väčšie programy a pracovať na týmových projektoch**. Projekty a rozsiahlejšie programy totiž obsahujú viacero súvisiacich súborov ktoré sú viac alebo menej navzájom previazané a prepojené práve cez knižnice, moduly a funkcie ktoré obsahujú a ktoré sú súčasne používané. **Je vhodné aby sa pre každý takýto projekt vytvoril samostatný adresár**. Na základe toho je možné  lepšie sa orientovať v tom  že ku ktorému súboru ten či onen iný súbor patrí.
 
 >### Mechanizmus spracovania modulov
 
@@ -256,11 +256,11 @@ Seznam vrácený funkcí dir() zahrnuje všechna jména definovaná v objektu, n
 
 >### Programové balíky
 
-Balíky sú logickým rozšírením mechanizmov Pythonových modulov. V Pythonu je totiž veˇmi rozšírená "bodková notácia" a práve balíky umožňujú hiearchickú organizáciu modulov.
+**Balíky sú** logickým rozšírením mechanizmov Pythonových modulov a predstavujú ich zlúčenie do väčších celkov. V Pythonu je totiž veľmi rozšírená "bodková notácia" a práve balíky umožňujú hiearchickú organizáciu modulov.
 
 Napríklad modul s menom A.B znamená že modul pomenovaný "B" je umiestnený v balíku "A". **Balíky umožňujú dekompozíciu (rozloženie) rozsiahlých knižníc do menších celkov - modulov**. Autori jednotlivých modulov sa nemusia zajímať o mená globálných premenných ich modulov v tom istom balíku. Programovací jazyk tu zaisťuje vzájomnú "izoláciu" balíkov mezi sebou. Preto sa napríklad autori jednotlivých modulov rozsiahlých balíkov (ako např. NumPy alebo Python Imaging Library) nemusia obávať stretu mien svojich globálných premenných s premennými iného autora.
 
-Predstavte si modelovú situáciu: chcete navrhnúť balík (kolekciu modulov) pre manipuláciu so zvukovými súubormi a zvukovými údajmi obecne. Keďže existuje mnoho rôzných zvukových formátov, potrebujeme vytvoriť a spravovať kolekciu modulov pre konverziu mezi týmito rôznymi formátmi. Také si môžeme predstaviť mnoho operácii, ktoré je možné zo zvukovými údajmi vykonávať (napr. mixovanie stop, pridávanie ozveny, aplikovanie ekvalizéra ...). Postupom času si vytvoríme mnoho modulov pre tieto činnosti. Pre ich organizáciu je mechanizmus balíkov naprosto ideálny. Tu možný štruktúra nášho balíku (zobrazená ako hiearchický súborový systém):
+Predstavte si modelovú situáciu: chcete navrhnúť **balík - kolekciu modulov** pre manipuláciu so zvukovými súubormi a zvukovými údajmi obecne. Keďže existuje mnoho rôzných zvukových formátov, potrebujeme vytvoriť a spravovať kolekciu modulov pre konverziu mezi týmito rôznymi formátmi. Také si môžeme predstaviť mnoho operácii, ktoré je možné zo zvukovými údajmi vykonávať (napr. mixovanie stop, pridávanie ozveny, aplikovanie ekvalizéra ...). Postupom času si vytvoríme mnoho modulov pre tieto činnosti. Pre ich organizáciu je mechanizmus balíkov naprosto ideálny. Tu možný štruktúra nášho balíku (zobrazená ako hiearchický súborový systém):
 ~~~
 Sound/                          Hlavný balík
       __init__.py               Inicializýcia balíku

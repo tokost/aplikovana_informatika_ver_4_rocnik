@@ -26,6 +26,8 @@
 19./ Napíšte krátky program pre zobrazenie súčasného dátumu pomocou funkcie today. 
 20./ Napíšte krátky program pre zobrazenie kalendara v roku vášho narodenia pomocou funkcie calendar.calendar .
 
-21./ Kedy možeme povedať že funkcia je funkcia prvej triedy ? Uvedte príklad takejto funkcie a vysvetlite prečo je prvej triedy.
-22./ Čo je to hlavná (main) funkcia v programe a aká je jej funkcia ?
-22./
+21./ Kedy možeme povedať že funkcia je funkcia prvej triedy ? Uvedte príklad takejto funkcie ktorý poukazuje na to prečo je prvej triedy.
+22./ Vysvetlite pojem kontajnera.
+23./ Čo je to hlavná (main) funkcia v programe a aká je jej funkcia ?
+24./ Aký je vzťah madzi funkciou main() a modulmi ?
+25./ Čo je to volanie volanie funkcie iného programu. Uvedte nejaký príklad.

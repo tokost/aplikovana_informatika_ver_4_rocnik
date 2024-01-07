@@ -1,7 +1,7 @@
 >## Otázky ku kapitole IV.
 
 1./ Ako vyzerá zápis funkcie s jedným parametrom. Uvedte príklad a vysvetlite spôsob použitia.\
-2./ Volanie funkcie a čo ej to argument funkcie ?\
+2./ Volanie funkcie a čo je to argument funkcie ?\
 3./ Čo to znamená že pri zápise funkcie nie sú zadané žiadne parametre ?\
 4./ Aký je mechanizmus prepojenia formálnych a skutočných parametrov ?\
 5./ Vysetlite na príklade ako vyzerá funkcia s dvomi predvolenými parametrami ?\

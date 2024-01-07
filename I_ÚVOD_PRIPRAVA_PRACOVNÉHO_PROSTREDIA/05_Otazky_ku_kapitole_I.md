@@ -7,7 +7,7 @@ Otázky k témam kapitoly:
 3./ Aké programovacie prostredia poznáte ?
 
 4./ Na čo sa používa VS-Code ?\
-5./ Čo sú vo VS-Code extensions a ako sa používajú ?
+5./ Čo sú vo VS-Code extensions a ako sa používajú ?\
 6./ Ako si vytvorím vo VS-Code terminálové okno ?\
 7./ Ako spustíme v terminálovom okne príkazový interprét Git Bash ?
 
